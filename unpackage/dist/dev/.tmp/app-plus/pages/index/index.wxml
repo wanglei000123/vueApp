@@ -1,0 +1,1 @@
+<view><block wx:if="{{PageCur=='basics'}}"><basics vue-id="1" bind:__l="__l"></basics></block><block wx:if="{{PageCur=='component'}}"><components vue-id="2" bind:__l="__l"></components></block><block wx:if="{{PageCur=='plugin'}}"><plugin vue-id="3" bind:__l="__l"></plugin></block></view>

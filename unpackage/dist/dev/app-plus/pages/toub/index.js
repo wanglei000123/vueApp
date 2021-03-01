@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"file { font-size: ",[0,32],"; }\n.",[1],"filename { color: #808080; }\n.",[1],"del { color: #0E90CE; float: right; }\n.",[1],"btn { width: 100%; margin: ",[0,20]," 0; color: #007AFF; background-color: #FFFFFF; border: #007AFF ",[0,2]," solid; }\n",],undefined,{path:"./pages/toub/index.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/toub/index.wxml') } }));

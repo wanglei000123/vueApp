@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"content{ height: 100%; }\n",],undefined,{path:"./pages/toub/userRating.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/toub/userRating.wxml') } }));

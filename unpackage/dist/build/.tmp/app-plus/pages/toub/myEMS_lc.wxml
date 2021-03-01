@@ -1,0 +1,1 @@
+<view><cu-custom vue-id="1" bgColor="bg-gradual-blue" isBack="{{true}}" bind:__l="__l" vue-slots="{{['backText','content']}}"><view slot="backText">返回</view><view slot="content">物流详情</view></cu-custom><view class="content"><ali vue-id="2" state="{{alidata2.state}}" datas="{{alidata2.data}}" ways="{{alidata2.information}}" bind:__l="__l"></ali></view></view>

@@ -1,0 +1,2 @@
+setCssToHead([".",[1],"content { }\n",],undefined,{path:"./pages/toub/myEMS_lc.wxss"})();
+document.dispatchEvent(new CustomEvent("generateFuncReady", { detail: { generateFunc: $gwx('./pages/toub/myEMS_lc.wxml') } }));

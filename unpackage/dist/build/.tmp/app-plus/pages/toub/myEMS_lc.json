@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "cu-custom": "/colorui/components/cu-custom",
+    "ali": "/pages/toub/myEMS_step"
+  }
+}

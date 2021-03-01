@@ -1,0 +1,6 @@
+{
+  "usingComponents": {
+    "cu-custom": "/colorui/components/cu-custom",
+    "my-issue": "/pages/toub/userRating_com"
+  }
+}
